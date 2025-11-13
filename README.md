@@ -44,5 +44,3 @@ Advantages:
 * Dashboard for farmers.
 * Expansion to multiple crop types.
 
-
-Would you like me to make this version **Markdown-styled with badges and icons** (like `![Python]`, `![Django]`, etc.) for GitHub visual appeal?
